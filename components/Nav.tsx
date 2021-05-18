@@ -4,7 +4,7 @@ import request from '../utils/request'
 const Nav = () => {
   return (
     <nav>
-      <div className="flex px-10 space-x-10 overflow-x-scroll text-2xl sm:px-20 whitespace-nowrap sm:space-x-20">
+      <div className="flex px-10 space-x-10 overflow-x-scroll text-2xl sm:px-20 whitespace-nowrap sm:space-x-20 scrollbar-hide">
         {Object.entries(request).map(([key, { title, url }]) => (
           <h2
             key={key}

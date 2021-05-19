@@ -2,7 +2,7 @@ import { ThumbUpIcon } from '@heroicons/react/outline'
 import Image from 'next/image'
 import { forwardRef } from 'react'
 
-type Props = { children: React.ReactNode; result: any }
+type Props = { result: any }
 export type Ref = HTMLDivElement
 
 const Thumbnail = forwardRef<Ref, Props>((props, ref) => {

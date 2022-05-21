@@ -1,5 +1,7 @@
 # [hulu clone](https://hulu-clone-next-typescript-tailwind.vercel.app/)
 
+This is a hulu clone build with Next.js, tailwindcss and TypeScript.
+
 ## Getting Started
 
 First, run the development server:

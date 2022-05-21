@@ -11,6 +11,12 @@ tmdb API
 
 ## Getting Started
 
+```bash
+npm install
+# or
+yarn
+```
+
 To run the development server:
 
 ```bash

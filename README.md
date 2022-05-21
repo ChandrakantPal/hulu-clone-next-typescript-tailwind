@@ -11,7 +11,7 @@ tmdb API
 
 ## Getting Started
 
-First, run the development server:
+To run the development server:
 
 ```bash
 npm run dev

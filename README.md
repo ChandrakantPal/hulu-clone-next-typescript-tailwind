@@ -2,6 +2,13 @@
 
 This is a hulu clone build with Next.js, tailwindcss and TypeScript.
 
+## Stack
+
+Next.js
+TypeScript
+tailwindcss
+tmdb API
+
 ## Getting Started
 
 First, run the development server:
